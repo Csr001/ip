@@ -1,4 +1,4 @@
-# Tool-Ip_forwarding_Ubuntu-Debian
+# Tool-Ip_f_Ubuntu-Debian
 ![Minion](https://octodex.github.com/images/minion.png)
 __Cara Setup__
 ```
@@ -8,7 +8,7 @@ apt update -y
 apt install wget -y
 ```
 ```
-wget -O setup "https://raw.githubusercontent.com/scvps69/ip/main/setup"
+wget -O setup "https://raw.githubusercontent.com/Csr001/ip/main/setup"
 ```
 ```
 bash setup
@@ -27,7 +27,7 @@ Fitur Utama :
 
 
 
-Telegram : @senowahyu62
+Telegram : 
 
 
 
